@@ -4,7 +4,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 
 ---
 
-## 👤 Identitas Mahasiswa
+##  Identitas Mahasiswa
 
 - **Nama Mahasiswa:** Maulana Dwi Prasetya
 - **NIM:** 241011400102
@@ -14,7 +14,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 
 ---
 
-## 📌 Deskripsi Singkat Tugas
+##  Deskripsi Singkat Tugas
 
 Tugas ini bertujuan untuk membangun pemahaman matematis, implementasi komputasi, dan analisis praktis pada dua algoritma fundamental machine learning:
 1. **Bagian A – Linear Regression:** Memprediksi nilai penjualan bulanan toko online berdasarkan biaya iklan menggunakan dataset `Ads_Data.csv`.
@@ -26,7 +26,7 @@ Seluruh model utama dan metrik evaluasi diimplementasikan secara manual mengguna
 
 ---
 
-## 🛠️ Algoritma yang Digunakan
+##  Algoritma yang Digunakan
 
 1. **Linear Regression (Normal Equation & Gradient Descent):**
    - **Normal Equation:** Solusi analitis kuadrat terkecil $\beta = (X^T X)^{-1} X^T y$.
@@ -38,7 +38,7 @@ Seluruh model utama dan metrik evaluasi diimplementasikan secara manual mengguna
 
 ---
 
-## 📊 Ringkasan Hasil
+##  Ringkasan Hasil
 
 ### 1. Linear Regression (Ads_Data.csv)
 - **Ukuran Data:** 40 data (Split 80:20 → 32 data training, 8 data testing).
@@ -82,14 +82,14 @@ Seluruh model utama dan metrik evaluasi diimplementasikan secara manual mengguna
 
 ---
 
-## 🎯 Kesimpulan Singkat
+##  Kesimpulan Singkat
 
 1. **Linear Regression:** Model terbukti memiliki performa yang sangat tinggi ($R^2 = 96.01\%$ pada data uji) dengan error rata-rata yang relatif kecil. Hubungan antara biaya iklan dan penjualan bersifat linear positif yang kuat. Pemilihan learning rate pada Gradient Descent sangat krusial agar model tidak lambat konvergen atau divergen/overflow.
 2. **Logistic Regression:** Model klasifikasi spam berbasis jumlah link dan kata promosi menghasilkan performa sangat baik (Akurasi 93.33%) dengan Precision sempurna (100%) pada threshold 0.5, sehingga aman digunakan tanpa risiko membuang email penting pengguna ke folder spam.
 
 ---
 
-## 📂 Struktur Repositori
+##  Struktur Repositori
 
 ```
 uts-machine-learning-241011400102/
@@ -101,7 +101,7 @@ uts-machine-learning-241011400102/
 
 ---
 
-## 🚀 Cara Menjalankan Notebook
+##  Cara Menjalankan Notebook
 
 Pastikan Anda telah menginstal pustaka yang diperlukan:
 ```bash
