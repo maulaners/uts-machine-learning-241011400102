@@ -8,7 +8,7 @@ Repositori ini berisi pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Machi
 
 - **Nama Mahasiswa:** Maulana Dwi Prasetya
 - **NIM:** 241011400102
-- **Kelas:** Reg B
+- **Kelas:** Reg B | 05TPLM001
 - **Mata Kuliah:** Machine Learning
 - **Random State:** 2 (diambil dari 2 digit terakhir NIM: `02` → `2`)
 
